@@ -1,1 +1,1 @@
-# prek_survey
+This repo contains survey questionnaire used in ``Parents' Earnings and the Returns to Universal Pre-Kindergarten'' by John Eric Humphries, Christopher Neilson, Xiaoyang Ye, Seth Zimmerman. The working paper is available at https://www.nber.org/papers/w33038
